@@ -1,5 +1,13 @@
 # Classical Feature Descriptors and Matching (Computer Vision)
 
+### ⭐ Project Highlights
+- Computed pixel gradients, magnitudes, and orientations for feature extraction  
+- Implemented Histogram of Oriented Gradients (HOG) descriptors  
+- Applied SIFT for feature detection and descriptor generation  
+- Performed feature matching under rotation, affine distortion, and illumination changes  
+- Evaluated robustness and invariance of classical descriptors  
+
+
 This repository contains a course exercise on **feature descriptors** and **feature matching** for the Yale Computer Vision class (CPSC 480/580).
 
 > Author: **Jessy Xue**  
